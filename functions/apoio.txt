@@ -1,0 +1,7 @@
+// função com retorno: usa 'return' para enviar um valor de volta
+
+// função em  variáveis: função anônima armazenada em váriável
+
+// função como parâmetro: permite comportamento dinâmico (callbacks)
+
+// função que retorna função: gera funções personalizadas, conceito de closure
